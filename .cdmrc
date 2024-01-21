@@ -1,0 +1,2 @@
+tabs: ['src/index.html', 'src/folder/script1.js', 'README.md']
+  run-button: node $$file
